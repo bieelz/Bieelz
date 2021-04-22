@@ -1,12 +1,11 @@
-### Olá 👋
+### Olá, eu sou o biel. 👋
 
-### ⚡ Sobre mim:
+### ⚡ Um pouco sobre mim:
 
 - 🔭 Programador ...
 - 🌱 Sempre buscando mais conhecimento ...
-- 👯 I’m Superior ..
+- ⭐ Estudando sobre Python, js, php e etc ...
+- ☄ I'm superior ...
 
 <!--
 **bieelz/Bieelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
